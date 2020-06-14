@@ -19,6 +19,14 @@ Good to use is very simple, just access the <a href="https://www.facebook.com/So
 
 Right after doing it you will start chatting with the bot from there onwards just follow the step by step, or type in the name of the song, artist or album that wants to know the lyrics.
 
+## Team
+
+<p>
+    <a href="https://github.com/JotinhaBR" target="_blank">Rubens Flinco</a>, 
+    <a href="https://github.com/gcmartins11" target="_blank">Gabriel Cardoso</a>
+</p>
+
+
 ## Project partners
 
 <p>
