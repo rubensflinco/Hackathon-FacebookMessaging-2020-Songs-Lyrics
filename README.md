@@ -1,4 +1,4 @@
-<center> <img src="https://jotinhabr.github.io/Hackathon-FacebookMessaging-2020-Songs-Lyrics/assets/images/logo-en-U.png" height="300px" /> </center>
+<center> <img src="https://jotinhabr.github.io/Hackathon-FacebookMessaging-2020-Songs-Lyrics/assets/images/logo-en-US.png" height="300px" /> </center>
 
 ## Welcome to the project Songs Lyrics
 Our project was developed to facilitate the day-to-day life of people who love music, lovers of musical lyrics who are reading now do not have to work hard to be able to read their favorite lyrics.
