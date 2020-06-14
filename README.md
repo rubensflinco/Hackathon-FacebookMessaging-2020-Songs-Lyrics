@@ -1,4 +1,4 @@
-Hackathon-FacebookMessaging-2020-Songs-Lyrics
+<center> <img src="https://jotinhabr.github.io/Hackathon-FacebookMessaging-2020-Songs-Lyrics/assets/images/logo-en-US.png" height="300px" /> </center>
 
 ## Welcome to the project Songs Lyrics
 Our project was developed to facilitate the day-to-day life of people who love music, lovers of musical lyrics who are reading now do not have to work hard to be able to read their favorite lyrics.
@@ -6,10 +6,6 @@ Our project was developed to facilitate the day-to-day life of people who love m
 It's super simple to use our app, you just have a Facebook account and use the Messeger app or even the Facebook website.
 
 With just one of these apps or website, you can now chat with our bot, which lets you search for lyrics instantly.
-
-## Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How to use?
 
