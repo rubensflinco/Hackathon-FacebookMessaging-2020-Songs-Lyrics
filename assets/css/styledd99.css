@@ -639,7 +639,7 @@ td {
 
 form {
     padding: 20px;
-    background: #f2f2f2
+    background: #333333
 }
 
 #main-content h1 {
@@ -807,6 +807,11 @@ footer a:hover {
 
 .clearfix {
     display: block
+}
+
+.qrcode{
+    border: solid 10px #fff;
+    border-radius: 10px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
