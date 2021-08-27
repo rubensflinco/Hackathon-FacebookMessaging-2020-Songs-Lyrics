@@ -18,7 +18,7 @@ Right after doing it you will start chatting with the bot from there onwards jus
 ## Team
 
 <p>
-    <a href="https://github.com/JotinhaBR" target="_blank">Rubens Flinco</a>, 
+    <a href="https://github.com/rubensflinco" target="_blank">Rubens Flinco</a>, 
     <a href="https://github.com/gcmartins11" target="_blank">Gabriel Cardoso</a>
 </p>
 
